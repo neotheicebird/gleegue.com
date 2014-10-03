@@ -1,0 +1,45 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "212,559,612,931"
+
+[AB_Cache_{CA6E02F2-27AA-4348-B427-01B331A64C37}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "0004ccf6e094f8ac789d5bac8b3547d5"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/D/labview codes/builds/multichannel-capture"
+Cache_GenFile[0][Path] Line0002 = "/Multi_channel_capture/Multi_channel_capture"
+Cache_GenFile[0][Path] Line0003 = ".exe"
+Cache_GenFile[1][Path] Line0001 = "/D/labview codes/builds/multichannel-capture"
+Cache_GenFile[1][Path] Line0002 = "/Multi_channel_capture/Multi_channel_capture"
+Cache_GenFile[1][Path] Line0003 = ".aliases"
+Cache_GenFile[2][Path] Line0001 = "/D/labview codes/builds/multichannel-capture"
+Cache_GenFile[2][Path] Line0002 = "/Multi_channel_capture/Multi_channel_capture"
+Cache_GenFile[2][Path] Line0003 = ".ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{F459FB58-64E1-4D3F-83E4-17FD75F0CE8F}"
+Cache_GenGUID[1][String] = "{8349F8E1-5ED1-4F31-93A0-EE830D0D83E6}"
+Cache_GenGUID[2][String] = "{104145A2-CF67-4BB3-A6C9-518746893826}"
+Cache_OutputDir[Path] Line0001 = "/D/labview codes/builds/multichannel-capture/"
+Cache_OutputDir[Path] Line0002 = "Multi_channel_capture"
+
+[AB_Cache_{F6C3859A-681D-421B-B61B-9C4C491CC15E}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "0004ccf6e094f8ac789d5bac8b3547d5"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/D/labview codes/builds/multichannel-capture"
+Cache_GenFile[0][Path] Line0002 = "/Multi_channel_capture/Multi_channel_capture"
+Cache_GenFile[0][Path] Line0003 = ".exe"
+Cache_GenFile[1][Path] Line0001 = "/D/labview codes/builds/multichannel-capture"
+Cache_GenFile[1][Path] Line0002 = "/Multi_channel_capture/Multi_channel_capture"
+Cache_GenFile[1][Path] Line0003 = ".aliases"
+Cache_GenFile[2][Path] Line0001 = "/D/labview codes/builds/multichannel-capture"
+Cache_GenFile[2][Path] Line0002 = "/Multi_channel_capture/Multi_channel_capture"
+Cache_GenFile[2][Path] Line0003 = ".ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{F459FB58-64E1-4D3F-83E4-17FD75F0CE8F}"
+Cache_GenGUID[1][String] = "{8349F8E1-5ED1-4F31-93A0-EE830D0D83E6}"
+Cache_GenGUID[2][String] = "{104145A2-CF67-4BB3-A6C9-518746893826}"
+Cache_OutputDir[Path] Line0001 = "/D/labview codes/builds/multichannel-capture/"
+Cache_OutputDir[Path] Line0002 = "Multi_channel_capture"
+
